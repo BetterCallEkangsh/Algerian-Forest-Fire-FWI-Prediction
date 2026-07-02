@@ -128,8 +128,8 @@ All three CV models land in the **97–98% R² range** on held-out test data —
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/BetterCallEkangsh/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/BetterCallEkangsh/Algerian-Forest-Fire-FWI-Prediction.git
+cd Algerian-Forest-Fire-FWI-Prediction
 pip install -r requirements.txt
 jupyter notebook
 ```
